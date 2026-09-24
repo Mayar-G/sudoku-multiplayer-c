@@ -1,0 +1,4 @@
+*.o
+client
+client_gui
+server
